@@ -9,7 +9,5 @@
   },
   "author": "cody flies",
   "license": "UNLICENSED",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "dependencies": {}
 }
