@@ -1,0 +1,11 @@
+{
+  "name": "npmprojectfreecodecamp",
+  "version": "1.0.0",
+  "description": "project for npm free code camp",
+  "main": "index.js",
+  "scripts": {
+    "test": "runTest"
+  },
+  "author": "cody flies",
+  "license": "UNLICENSED"
+}
