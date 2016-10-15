@@ -4,7 +4,7 @@
   "description": "project for npm free code camp",
   "main": "index.js",
   "scripts": {
-    "test": "runTest"
+    "test": "node test.js"
   },
   "author": "cody flies",
   "license": "UNLICENSED",
