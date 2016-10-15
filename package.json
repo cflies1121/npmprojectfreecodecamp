@@ -1,6 +1,6 @@
 {
   "name": "npmprojectfreecodecamp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "project for npm free code camp",
   "repository": "https://github.com/cflies1121/npmprojectfreecodecamp",
   "main": "index.js",
